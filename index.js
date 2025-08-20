@@ -3,7 +3,7 @@ let level = 7800
 let rank
 
 // solução gerada com IF, ELSE, ELSE IF
-if(level <= 1000) {
+if (level <= 1000) {
    rank = "Ferro";
 } else if (level <= 2000) {
     rank = "Bronze";
