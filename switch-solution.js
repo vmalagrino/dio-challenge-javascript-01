@@ -2,6 +2,7 @@ let name = "X"
 let level = 10000
 let rank
 
+// Solução gerada com SWITCH CASE
 switch (true) {
     case (level <= 1000):
         rank = "Ferro";
