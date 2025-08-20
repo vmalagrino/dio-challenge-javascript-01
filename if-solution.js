@@ -1,5 +1,5 @@
 let name = "X"
-let level = 7800
+let level = 10000
 let rank
 
 // solução gerada com IF, ELSE, ELSE IF

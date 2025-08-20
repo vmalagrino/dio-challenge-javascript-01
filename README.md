@@ -1,6 +1,6 @@
 # Classificador de nível de herói
 
-Neste estudo foi utilizado if como solução para checar os valores dos pontos de experiência e classificar ao final com um rank pré-determinado.
+Neste estudo foi utilizado if como primeira solução e switch como segundo solução, os dois modos validam os valores dos pontos de experiência e classificam ao final com um rank pré-determinado.
 
 ## Níveis
 - Se XP for menor do que 1.000 = Ferro
